@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\crazynet\desktop\project3\project3\source.cpp(9): warning C4552: '<': operator has no effect; expected operator with side-effect
+  Project3.vcxproj -> C:\Users\CrazyNet\Desktop\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\CrazyNet\Desktop\Project3\Debug\Project3.pdb (Partial PDB)
